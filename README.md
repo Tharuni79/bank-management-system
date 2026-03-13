@@ -48,16 +48,16 @@ frontend → React application
 ## Screenshots
 
 ### Login Page
-![Login](screenshots/Login.png)
+![Login](Login.png)
 
 ### Dashboard
-![Dashboard](screenshots/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ### Transfer Money
-![Transfer](screenshots/Transfer Money.png)
+![Transfer](Transfer Money.png)
 
 ### Check Balance
-![Balance](screenshots/Check Balance.png)
+![Balance](Check Balance.png)
 
 ### Transaction History
-![Transactions](screenshots/Transaction History.png)
+![Transactions](Transaction History.png)
