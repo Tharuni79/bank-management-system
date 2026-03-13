@@ -44,3 +44,20 @@ frontend → React application
 1. Open frontend in VS Code
 2. Run `npm install`
 3. Run `npm start`
+
+## Screenshots
+
+### Login Page
+![Login](screenshots/Login.png)
+
+### Dashboard
+![Dashboard](screenshots/Dashboard.png)
+
+### Transfer Money
+![Transfer](screenshots/Transfer Money.png)
+
+### Check Balance
+![Balance](screenshots/Check Balance.png)
+
+### Transaction History
+![Transactions](screenshots/Transaction History.png)
